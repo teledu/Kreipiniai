@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Kreipiniai
 {
-    public class NameRetriever
+    internal class NameRetriever
     {
         private readonly MemoryCache _cache;
         private readonly TimeSpan _expirationTimeout;
