@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreipiniai", "src\Kreipiniai\Kreipiniai.csproj", "{BCF14E1B-D760-47A2-8B2A-BECDE34A123C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreipiniai.Tests", "src\Kreipiniai.Tests\Kreipiniai.Tests.csproj", "{B539AB4C-3919-4ED7-9754-806AA535143D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF14E1B-D760-47A2-8B2A-BECDE34A123C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF14E1B-D760-47A2-8B2A-BECDE34A123C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF14E1B-D760-47A2-8B2A-BECDE34A123C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF14E1B-D760-47A2-8B2A-BECDE34A123C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B539AB4C-3919-4ED7-9754-806AA535143D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B539AB4C-3919-4ED7-9754-806AA535143D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B539AB4C-3919-4ED7-9754-806AA535143D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B539AB4C-3919-4ED7-9754-806AA535143D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CFFC9D-C385-477A-A23D-7E86E3F1EDC0}
+	EndGlobalSection
+EndGlobal
